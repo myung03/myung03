@@ -12,8 +12,9 @@ I'm a third-year student double majoring in Cognitive Systems and Computer Scien
 
 ## Languages and Tools
 
-```markdown
 Python, Java, Javascript, React, HTML, CSS, Tailwind, C, Git, GitHub
+
+![Myung's GitHub stats](https://github-readme-stats.vercel.app/api?username=myung03&show_icons=true&theme=tokyonight)
 
 ## How to reach me 
 If you want to chat, feel free to reach out to me through Linkedin or email! 
