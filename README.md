@@ -1,5 +1,3 @@
-# Hi there 👋 Welcome to My ReadMe!
-
 ## I'm Matthew 😄
 
 I'm a third-year student double majoring in Cognitive Systems and Computer Science at the University of British Columbia (UBC). Passionate about Fullstack Development, Artificial Intelligence, and always a nerd about technology. In my free time, I love trying new restaurants, gaming (currently struggling through Tears of The Kingdom), and playing with my dog. Although I am more experienced with frontend development, I'm currently looking to also expand my skillset by learning backend development as well. 
